@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VSCode environment settings
+/.vscode
+item_properties_part1.csv
+item_properties_part2.csv
+category_tree.csv
+nohup.out
